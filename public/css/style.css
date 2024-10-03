@@ -3927,7 +3927,7 @@ strong {
   height: 278.25px;
   /* margin-left: 150px; */
   padding: 0;
-  background: url(../img/buiness-banner.png) center center no-repeat;
+  background: url(../img/learning_pages/image\ 6.png) center center no-repeat;
   background-color: #F5F5F5;
   background-shadow: 5px 5px 50px black;
   -webkit-background-size: cover;
@@ -3938,31 +3938,31 @@ strong {
 
 @media (max-width: 1050px){
   #stratathon .stratathon-banner{
-    background: url(../img/servicesPage/buiness-banner_resized-1024.png);
+    background: url(../img/learning_pages/Testimage.png);
   }
 }
 
 @media (max-width: 990px){
   #stratathon .stratathon-banner{
-    background: url(../img/servicesPage/buiness-banner_resized-980.png);
+    background: url(../img/learning_pages/image\ 2.png);
   }
 }
 
 @media (max-width: 780px){
   #stratathon .stratathon-banner{
-    background: url(../img/servicesPage/buiness-banner_resized-768.png);
+    background: url(../img/learning_pages/image\ 3.png);
   }
 }
 @media (max-width: 450px){
   #stratathon .stratathon-banner {
     height: auto;
-    background: url(../img/servicesPage/buiness-banner-resized.png) center center no-repeat;
+    background: url(../img/learning_pages/image\ 4.png) center center no-repeat;
   }
 }
 
 @media (max-width: 380px){
   #stratathon .stratathon-banner{
-    background: url(../img/servicesPage/consulting-banner_resized-375.png);
+    background: url(../img/learning_pages/image\ 5.png);
   }
 }
 
